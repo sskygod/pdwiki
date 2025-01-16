@@ -53,7 +53,7 @@ to define base colors, consider:
 
 ![alt text](examples/facebook_spotify_primary_color.png)
 
-**Do not confuse with [Color theory - Primary Color](../../color_theory/color_theory.md/#primary-color)**
+**Do not confuse with [Color theory - Primary Color](../../color_theory/color_theory/#primary-color)**
 
 **Do not confuse with [rule 60-30-10 - Primary Color](../rules/rule_60-30-10/rule_60-30-10.md/#dominantprimary-color-60)**
 
