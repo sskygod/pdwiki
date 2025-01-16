@@ -30,7 +30,7 @@ Digital products might also use weight, which is the thickness of the letters in
 
 > For example, a bold type face gives more emphasis or importance to the text.
 
-[IMPLEMENT TYPE HIERARCHY IN TYPE SYSTEM - DESIGN SYSTEM](./typography_system.md/#typographic-hierarchy)
+[IMPLEMENT TYPE HIERARCHY IN TYPE SYSTEM - DESIGN SYSTEM](./typography_system/#typographic-hierarchy)
 
 ### Making text easy to read
 
@@ -274,7 +274,7 @@ The difference between typeface and font can be a little confusing.
 
 ## Type system
 
-[Type system](./typography_system.md/#typography-system)
+[Type system](./typography_system/#typography-system)
 
 ## _References
 
