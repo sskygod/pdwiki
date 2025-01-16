@@ -55,7 +55,7 @@ to define base colors, consider:
 
 **Do not confuse with [Color theory - Primary Color](../../color_theory/color_theory/#primary-color)**
 
-**Do not confuse with [rule 60-30-10 - Primary Color](../rules/rule_60-30-10/rule_60-30-10.md/#dominantprimary-color-60)**
+**Do not confuse with [rule 60-30-10 - Primary Color](../rules/rule_60-30-10/rule_60-30-10/#dominantprimary-color-60)**
 
 ### Secondary
 
@@ -99,9 +99,9 @@ Refer to [Neutral Color](../../color_theory/color_psychology/color_psychology/#c
 
 ![alt text](examples/instagram_dropbox_accent_color.png)
 
-**Do not confuse with [Color theory - Secondary Color](../../color_theory/color_theory.md/#secondary-color)**
+**Do not confuse with [Color theory - Secondary Color](../../color_theory/color_theory/#secondary-color)**
 
-**Do not confuse with [rule 60-30-10 - Secondary Color](../rules/rule_60-30-10/rule_60-30-10.md/#complementarysecondary-color-30)**
+**Do not confuse with [rule 60-30-10 - Secondary Color](../rules/rule_60-30-10/rule_60-30-10/#complementarysecondary-color-30)**
 
 #### Semantic color
 
