@@ -63,8 +63,14 @@ The three levels of typographic hierarchy are headlines, subheadings, and body t
 
 ## _References
 
-[1]: <https://designcode.io/typographic-scales> Learn more about typographic scales.
+- *Learn more about typographic scales.* [[1]]
 
-[2]: <https://www.canva.com/learn/the-ultimate-guide-to-font-pairing/> Canva's ultimate guide to font combinations
+[1]: <https://designcode.io/typographic-scales>
 
-[3]: <https://www.canva.com/learn/canva-for-work-brand-fonts/> Canva's ultimate guide to font combinations
+- *Canva's ultimate guide to font combinations* [[2]]
+
+[2]: <https://www.canva.com/learn/the-ultimate-guide-to-font-pairing/>
+
+- *Build your brand: How to choose the right fonts* [[3]]
+
+[3]: <https://www.canva.com/learn/canva-for-work-brand-fonts/>

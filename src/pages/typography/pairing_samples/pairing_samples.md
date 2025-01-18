@@ -355,12 +355,22 @@ By putting together essential visual components, you form a personality for your
 
 [5]: <https://www.canva.com/learn/the-ultimate-guide-to-font-pairing/>
 
-[6]: <https://www.canva.com/learn/how-to-customize-fonts-to-improve-your-designs/> How to customize fonts to improve your designs
+- *How to customize fonts to improve your designs* [[6]]
 
-[7]: <https://www.canva.com/learn/best-bold-fonts/> 50 of the best bold fonts built for impact in any design
+[6]: <https://www.canva.com/learn/how-to-customize-fonts-to-improve-your-designs/>
 
-[8]: <https://www.canva.com/learn/modern-fonts/> 50 free modern fonts to download for a contemporary look
+- *50 of the best bold fonts built for impact in any design* [[7]]
 
-[9]: <https://www.canva.com/learn/calligraphy-fonts/> 60 free calligraphy fonts to bring charm to your designs
+[7]: <https://www.canva.com/learn/best-bold-fonts/>
 
-[10]: <https://www.canva.com/learn/minimalist-font/> 60 free fonts for minimalist designs
+- *50 free modern fonts to download for a contemporary look* [[8]]
+
+[8]: <https://www.canva.com/learn/modern-fonts/>
+
+- *60 free calligraphy fonts to bring charm to your designs* [[9]]
+
+[9]: <https://www.canva.com/learn/calligraphy-fonts/>
+
+- *60 free fonts for minimalist designs* [[10]]
+
+[10]: <https://www.canva.com/learn/minimalist-font/>
