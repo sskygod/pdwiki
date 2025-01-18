@@ -61,7 +61,7 @@ Typography adds to this visual style and displays a company's identity.
 
 ### Typeface anatomy
 
-A typeface is a collection of letters. While each letter is unique, certain shapes are shared across letters. A typeface represents shared patterns across a collection of letters. [R2]
+A typeface is a collection of letters. While each letter is unique, certain shapes are shared across letters. A typeface represents shared patterns across a collection of letters. [R2],[7]
 
 Typefaces that are selected for their style, legibility, and readability are most effective when following the fundamental principles of typographic design. [R2]
 
@@ -124,14 +124,27 @@ Common weights with code
 
 [TBD]
 
+#### Curvature
+
+Rounded [7]
+Semi-Rounded [7]
+
 ### Type classification
+
+or called compositional techniques [7]
 
 - [Serif](#serif)
 - [Sans](#sans)
+- [Slab Serif](#slab-serif)
+- [Script](#script)
 
 #### Serif
 
 #### Sans
+
+#### Slab Serif
+
+#### Script
 
 ### Emphasis
 
@@ -292,6 +305,7 @@ The difference between typeface and font can be a little confusing.
 [4]: <https://help.vyond.com/hc/en-us/articles/17221820958740-What-is-the-title-subtitle-and-body>
 [5]: <https://app.uxcel.com/courses/typography-basics/headings-761>
 [6]: <https://en.wikipedia.org/wiki/Emphasis_(typography)>
+[7]: <https://www.canva.com/learn/the-ultimate-guide-to-font-pairing/>
 
 ## _Control
 

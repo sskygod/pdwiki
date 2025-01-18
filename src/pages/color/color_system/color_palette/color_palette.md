@@ -31,6 +31,8 @@ to define base colors, consider:
 - Color psychology evokes certain emotions, stimulates senses, and encourages user action. It’s important to reference color psychology to create combinations that connect with users and provoke the mood you’re trying to convey. [9]
 - Before you launch your design, gather feedback on your color palette to ensure it resonates with end users and aligns with your overall goal. This allows you to make any necessary adjustments to your color palette to create a pleasing user experience. [9]
 
+*đôi khi color palette được gen ra không có neutral colors, ta phải tự chọn thêm vào.*
+
 ### Primary color
 
 *Primary aka Main color.*
