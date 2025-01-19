@@ -343,6 +343,170 @@ Whether you choose elegant serif typefaces or more modern contemporary ones, the
 
 By putting together essential visual components, you form a personality for your brand. Therefore, the application of typefaces is a fundamental step in starting your brand journey. Use this blog post to help you create happy font pairings and to inspire you to go out and push your typographic abilities.
 
+## CLASSIC FONT PAIRINGs
+
+*My font library is overwhelmingly made up of classic fonts, but here are some of my all time favorites. Most of the type families in this collection come with lots of extras— variations, weights, styles, swashes, and extras so your possibilities are endless.* [[11]]
+
+Pair-1:
+
+- Clean – Cochin
+- Elegant – Bickham Script Pro
+
+Pair-2:
+
+- Timeless – Beloved Script
+- Classy – Didot Bold
+
+Pair-3:
+
+- Simple – Revista Black
+- Polished – Aromatica Regular
+
+Pair-4:
+
+- Refined – ITC Century Std Light Condensed
+- Chic – Bodoni Sans
+
+Pair-5:
+
+- Fashionable – La Parisienne Serif
+- Stylish – Gorni Regular
+
+Pair-6:
+
+- Graceful – Edelweis
+- Delicate – Wright Deco Light
+
+Pair-7:
+
+- Fine – Taberna Serif
+- Exquisite – Yana Regular
+
+Pair-8:
+
+- Rich – Ragazza Script
+- Grand – Encorpada Classic
+
+Pair-9:
+
+- Sharp – Adelicia Script
+- Dependable – Core Deco Regular
+
+![alt text](Classic-Font-Pairings-Elegance-and-Enchantment-B.png)
+
+![alt text](Classic-Font-Pairings-Elegance-and-Enchantment-B2.png)
+
+## Canva fonts that go together
+
+I’m bringing you 24 swoon-worthy combos that are sure to help you find inspiration or uplevel your brand in Canva. [[12]]
+
+- Montserrat and Open Sans
+- Poppins and Lora
+- Playfair Display and Oswald
+- Bodoni FLF and Raleway
+- Alata and Cardo
+- Black Mango and Garet Book
+- Volkhorn Semibold and Poppins
+- Josefin Sans and Source Sans Pro
+- Oswald and EB Garamond
+- Tan Mon Cherie and Open Sans
+- Merriweather and Raleway
+- Libre Baskerville and Montserrat Classic
+
+![alt text](24+of+the+Best+Canva+Font+Pairings+to+Uplevel+Your+Brand.png)
+
+- Cormorant Garamond and Muli Regular
+- Athachantr Semibold and Noto Sans
+- Helveticish and Courier Prime
+- Kulachat HC and Ovo
+- Safira March and Libre Baskerville
+- Quicksand and Source Sans Pro
+- Roboto Slab and Roboto
+- Roca Two and Garet
+- DM Serif Display and DM Sans
+- The Seasons Light
+- Garet Book and Hero
+- Playfair Display Black and Lato (example shows Playfair Display italicized)
+
+![alt text](The+Best+Free+Canva+Font+Pairings+to+Uplevel+Your+Brand.png)
+
+## 20 Free Font Pairings
+
+- [Nevis Bold](https://www.dafontfree.net/freefonts-nevis-f87196.htm) + [Merriweather](https://fonts.google.com/specimen/Merriweather)
+- [Otama](https://www.fontsquirrel.com/fonts/otama-ep) + [Clother](https://allbestfonts.com/clother-trial/)
+- [Intervogue Soft](https://www.uxfree.com/intervogue-soft-font-sans-serif/) + [Playfair Display](https://fonts.google.com/specimen/Playfair+Display)
+- [Big John](https://www.dafontfree.io/big-john-slim-joe-font-free/) + [Oxygen](https://www.fontsquirrel.com/fonts/oxygen)
+- [Butler](https://www.fontsquirrel.com/fonts/butler) + [Source Sans Pro](https://www.uxfree.com/intervogue-soft-font-sans-serif/)
+- [Audrey](https://www.dafontfree.io/download/audrey/) + [Intervogue Soft](https://www.uxfree.com/intervogue-soft-font-sans-serif/)
+- [Intro Black](https://www.dafontfree.io/intro-font-free/) + [Imprima](https://fonts.google.com/specimen/Imprima)
+- [Angelface](https://www.dafont.com/angelface.font) + [Montserrat](https://fonts.google.com/specimen/Montserrat)
+- [Frontage](https://allbestfonts.com/shrift-frontage/) + [Libre Baskerville](https://fonts.google.com/specimen/Libre+Baskerville)
+- [Abel](https://www.fontsquirrel.com/fonts/abel) + [Vesterbro](https://www.freefonts.io/vesterbro-font-free/)
+- [London](https://www.dafont.com/london-between.font) + [Raleway](https://www.fontsquirrel.com/fonts/raleway)
+- [Ubunto](https://www.fontsquirrel.com/fonts/ubuntu) + [Pontano Sans](https://fonts.google.com/specimen/Pontano+Sans)
+- [Grand Hotel](https://www.fontsquirrel.com/fonts/grand-hotel) + [Quicksand](https://www.fontsquirrel.com/fonts/quicksand)
+- [Elaris](https://befonts.com/elaris-serif-font.html) + [Oxygen](https://www.fontsquirrel.com/fonts/oxygen)
+- [Abril Fatface](https://fonts.google.com/specimen/Abril+Fatface) + [Source Sans Variable](https://github.com/adobe-fonts/source-sans-pro/releases/tag/variable-fonts)
+- [Quicksand](https://www.fontsquirrel.com/fonts/quicksand) + [Lora](https://www.fontsquirrel.com/fonts/lora)
+- [Caviar Dreams](https://www.dafont.com/caviar-dreams.font) + [Fanwood](https://www.fontsquirrel.com/fonts/fanwood)
+- [Cubano](https://www.losttype.com/font/?name=cubano) + [Bree Serif](https://www.fontsquirrel.com/fonts/bree-serif)
+- [Bree Serif](https://www.fontsquirrel.com/fonts/bree-serif) + [Roboto Regular](https://www.fontsquirrel.com/fonts/roboto)
+- [Oswald](https://fonts.google.com/specimen/Oswald) + [PT Serif](https://fonts.google.com/specimen/PT+Serif)
+
+![alt text](Screen+Shot+2022-08-24+at+4.35.21+PM.png)
+
+## Wedding Fonts
+
+Choosing the right font pairing for wedding invitations is a pivotal element in setting the desired mood and theme for your special day. A successful font combination should strike a balance between elegance, readability, and personality. keeping the number of fonts limited to two or three maintains consistency and visual harmony across your wedding stationery. Ultimately, a good font pairing for weddings should reflect the couple's style, encapsulate the essence of the event, and create a lasting impression on guests. Some great examples are: [[14]]
+
+- Anastasia Script + Balgin
+- Breathing + Catchy Mager
+- Le Jour Script + Montserrat
+- Selima + Black Mango
+- Malibu + Josefin Sans
+- West Bynetta + Tan Agean
+- Brightwall + Kabel
+- Better Saturday + Raleway
+
+## Vintage Fonts
+
+Vintage-themed designs often evoke nostalgia and charm, and choosing the right font pairing can enhance this aesthetic. Opting for fonts that reflect the elegance and character of a bygone era is crucial. For a vintage-inspired, consider pairing a decorative script font with a classic serif font. Ultimately, a well-chosen vintage font pairing sets the stage for a design brimming with old-world charm and romantic allure. [[14]]
+
+- Tan Twinkle + Quattrocento
+- Lucien + Koulen
+- Niconne + Lancelot
+- Bugaki + Ovo
+- Libre Baskerville + Josefin Sans
+- Roman + Coustard
+- Frunchy Sans + Cinzel
+- Della Respira + Masha
+
+## Hand Written Fonts
+
+Crafting a design with handwritten fonts offers a personalized and intimate touch, infusing warmth and character into every detail. When considering handwritten font combinations, seek a blend of complementary styles that evoke a sense of individuality and charm. Pairing a casual and playful handwritten font with a more structured and readable sans-serif, or serif font can create a delightful contrast. [[14]]
+
+- Amsterdam + Merriweather
+- Best Light + Abhaya Libre
+- Apricots + Raleway
+- Brittany + Josefin Sans
+- Angela White + Afrah
+- Playlist + Montserrat
+- Oswald + Aleo
+- Daydream + Hagrid
+
+## Minimalist Fonts
+
+Creating minimalist font pairings involves a careful balance between simplicity and sophistication to create a clean, refined aesthetic. Start by selecting fonts that exude simplicity and clarity, favoring clean lines and minimal embellishments. Opt for a combination of sans-serif fonts with subtle differences in weights or styles. Stick to two fonts at most to maintain a minimalist look while ensuring readability. Establish a hierarchy by using one font for headers or titles and another for body text, ensuring contrast without overwhelming the design. Pay attention to spacing, alignment, and consistent sizing to create a harmonious visual flow. Minimalist font pairings thrive on simplicity, precision, and purposeful design, elevating the overall aesthetic while maintaining a sleek and modern appeal. [14]
+
+- Julias Sans + Merriweather
+- Balgin + The Seasons
+- Quicksand + Lora
+- League Spartan + Alike
+- Amiko + Cormorant
+- Montserrat + Copperplate
+- Oswald + Roxborough
+- Code + Garbata
+
 ## _References
 
 [1]: <https://www.canva.com/learn/the-ultimate-guide-to-font-pairing/>
@@ -374,3 +538,28 @@ By putting together essential visual components, you form a personality for your
 - *60 free fonts for minimalist designs* [[10]]
 
 [10]: <https://www.canva.com/learn/minimalist-font/>
+
+- *Classic Font Pairings* [[11]]
+
+[11]: <https://eleganceandenchantment.com/classic-font-pairings/>
+
+- *24 of the Best Canva Font Pairings to Uplevel Your Brand* [[12]]
+
+[12]: <https://www.firtherdesignco.com/blog/24-of-the-best-canva-font-pairings-to-uplevel-your-brand>
+
+- *20 Free Font Pairings (and how they pertain to your brand)* [[13]]
+
+[13]: <https://www.eyesavvydesign.com/blog/20-free-font-pairings-for-your-brand>
+
+- *The best font pairings in Canva & how to design your own* [[14]]
+
+[14]: <https://motionstamp.com/blogs/news/best-canva-font-pairings>
+
+### Unmerged
+
+- [50+ Best Canva Font Pairings for Pinterest Pins](https://madebymelody.co/canva-font-pairings-for-pinterest-pins/)
+- [Build your brand: How to choose the right fonts](https://www.canva.com/learn/canva-for-work-brand-fonts/)
+- [Fabulous Free Font Pairings for Special Occasions](https://www.designbeginswithl.com/2019/09/fabulous-free-font-pairings-for-special.html)
+- [10 Font Pairings for Strong Branding](https://sugarstudiosdesign.com/2019/01/27/10-font-pairings-for-strong-branding/)
+- [Font-in-use](https://fontsinuse.com/)
+- [Try these free Google Font pairings](https://www.fontpair.co/all)

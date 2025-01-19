@@ -57,9 +57,11 @@ Typography adds to this visual style and displays a company's identity.
 
 *If you're designing for a specific company, make sure you ask for their brand guidelines before getting started.*
 
-## Type properties
+## Typeface
 
-### Typeface anatomy
+**A typeface is the overall style of a letter.**
+
+### Anatomy
 
 A typeface is a collection of letters. While each letter is unique, certain shapes are shared across letters. A typeface represents shared patterns across a collection of letters. [R2],[7]
 
@@ -75,6 +77,13 @@ Typefaces that are selected for their style, legibility, and readability are mos
 - [Aperture](#aperture)
 - [Stem]
 - [Stroke]
+
+Typefaces are distinguished by their
+
+- stroke weight
+- shape
+- type of serif
+- and line lengths.
 
 #### Baseline
 
@@ -129,22 +138,41 @@ Common weights with code
 Rounded [7]
 Semi-Rounded [7]
 
-### Type classification
+### Classification
 
-or called compositional techniques [7]
+**Type classification is a general system to describe styles of type.**
 
-- [Serif](#serif)
-- [Sans](#sans)
+Each typeface is known by a family name:
+
+- [Serif](#serif): has the little decorative flourishes on the ends of the lines on the letterforms [[8]] are Times New Roman, Georgia, and Cambria. [[C1]]
+- [Sans](#sans-serif): is without the decorative flourishes on the ends of the lines on the letterforms [[8]] include Arial, Helvetica, and Verdana. [[C1]]
 - [Slab Serif](#slab-serif)
-- [Script](#script)
+- [Script](#script): is like cursive or calligraphy [[8]]
+- [Display](#display): These are usually the crazy, fun, decorative and different types of fonts. [[8]]
+
+![alt text](1659383648817-V2410YLUSIK7LUCX5QWJ.png)
+
+Two of the most popular type classifications are **Serif** and **Sans Serif**.
+
+![type_classification_sample](type_classification_sample.png)
+
+> Historically, UX designers preferred sans serif typefaces for apps and websites, because it was more legible on the screen. But, as technology has gotten better, so has screen resolution, which means it's no longer difficult to read serif typefaces digitally. In the past few years, serif typefaces have made a comeback with UX designers, and they have even been digitized for modern screen use.
 
 #### Serif
 
-#### Sans
+**Serif styles** of type can be recognized by the tiny lines called serifs that trail from the letters as strokes and stems as edges. [[C1]]
+> Look closely at the letter T on the left side of the screen. The small lines hanging off of both ends of the horizontal line at the top of the T help identify the text type classification as *serif*.
+
+#### Sans-serif
+
+**Sans Serif styles** of type don't have these tiny lines. [[C2]]
+> Notice that on the right side of the screen, there are no small lines hanging off of the T. This T is just a simple horizontal and vertical line. That's a clear indicator that this T falls into the *sans serif* type classification.
 
 #### Slab Serif
 
 #### Script
+
+#### Display
 
 ### Emphasis
 
@@ -221,48 +249,9 @@ Left-to-right languages can use right-aligned text, though it is best for distin
 
 ![alt text](type_alignment_center.png)
 
-## Steps to find typography
+## Font
 
-There are three steps to find the perfect typography for your design:
-
-1. [Selecting a type classification](#selecting-a-type-classification)
-2. [Picking a typeface](#picking-a-typeface)
-3. [Choosing a font](#choosing-a-font)
-
-### Selecting a type classification
-
-**Type classification is a general system to describe styles of type.**
-
-Two of the most popular type classifications are **Serif** and **Sans Serif**.
-
-![type_classification_sample](type_classification_sample.png)
-
-- **Serif styles** of type can be recognized by the tiny lines called serifs that trail from the letters as strokes and stems as edges.
-  > Look closely at the letter T on the left side of the screen. The small lines hanging off of both ends of the horizontal line at the top of the T help identify the text type classification as *serif*.
-- **Sans Serif styles** of type don't have these tiny lines.
-  > Notice that on the right side of the screen, there are no small lines hanging off of the T. This T is just a simple horizontal and vertical line. That's a clear indicator that this T falls into the *sans serif* type classification.
-
-### Picking a typeface
-
-**A typeface is the overall style of a letter.**
-
-Typefaces are distinguished by their
-
-- stroke weight
-- shape
-- type of serif
-- and line lengths.
-
-Each typeface is known by a family name:
-
-- **Serif typefaces** are Times New Roman, Georgia, and Cambria.
-- **Sans serif typefaces** include Arial, Helvetica, and Verdana.
-
-> Historically, UX designers preferred sans serif typefaces for apps and websites, because it was more legible on the screen. But, as technology has gotten better, so has screen resolution, which means it's no longer difficult to read serif typefaces digitally. In the past few years, serif typefaces have made a comeback with UX designers, and they have even been digitized for modern screen use.
-
-### Choosing a font
-
-**Font is the size, thickness, and emphasis of letters.**
+**Font is the size, thickness, and emphasis of letters.** [[C1]]
 
 The difference between typeface and font can be a little confusing.
 
@@ -275,6 +264,10 @@ The difference between typeface and font can be a little confusing.
 
 *Nói ngắn gọn: "Font" là sự cụ thể hóa của Typeface theo từng mức [weight](#weight)*
 
+## Type system
+
+[Type system](./typography_system#typography-system)
+
 ## Glyph
 
 **Glyph**: In typography, a glyph is "the specific shape, design, or representation of a character". It is a particular graphical representation, in a particular typeface, of an element of written language. [R1]
@@ -285,9 +278,6 @@ The difference between typeface and font can be a little confusing.
 
 <!-- - [Work with type in mockups](../../../tools/figma.md/#work-with-type-in-mockups) -->
 
-## Type system
-
-[Type system](./typography_system#typography-system)
 
 ## _References
 
@@ -306,6 +296,12 @@ The difference between typeface and font can be a little confusing.
 [5]: <https://app.uxcel.com/courses/typography-basics/headings-761>
 [6]: <https://en.wikipedia.org/wiki/Emphasis_(typography)>
 [7]: <https://www.canva.com/learn/the-ultimate-guide-to-font-pairing/>
+
+- *20 Free Font Pairings (and how they pertain to your brand)* [[8]]
+
+[8]: <https://www.eyesavvydesign.com/blog/20-free-font-pairings-for-your-brand>
+
+[Script or Cursive Fonts: What’s the Difference?](https://www.creativefabrica.com/the-artistry/fonts-and-digital-designs/script-or-cursive-fonts-whats-the-difference/#:~:text=Script%20and%20cursive%20fonts%20both,flowing%20lines%20and%20connected%20letters.)
 
 ## _Control
 
