@@ -316,7 +316,7 @@ Font pairing is also a popular technique among graphic designers to create visua
 
 ![alt text](Font-Pairing-for-Typographic-Hierarchy-in-Graphic-Design.webp)
 
-Refer to [Font Pairing](../typography_system.md#font-pairingcombination)
+Refer to [Font Pairing](../../typography_system)
 
 ### Spacing
 

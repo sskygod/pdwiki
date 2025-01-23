@@ -96,8 +96,8 @@ Imagine you're telling a story with different chapters and sections. In typograp
 - Example: Use a bold serif font for headings and a clean sans-serif font for body text.
 - Ensure contrast in **weight**, **size**, or **style** between headings, subheadings, and body text.
 
-[Levels of typographic hierarchy](./typography_system/typography_hierarchy_levels/typography_hierarchy_levels.md)
-[Modular scale](./typography_system/modular_scale/modular_scale.md)
+[Levels of typographic hierarchy](./typography_system/typography_hierarchy_levels/typography_hierarchy_levels)
+[Modular scale](./typography_system/modular_scale/modular_scale)
 
 ### Consistency and Cohesion
 
