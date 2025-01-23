@@ -22,8 +22,6 @@ In the simplest form, a Font Pairing is when you pair fonts that look great toge
 - **Body Text:** Choose a highly readable font for paragraphs and smaller text.
 - **Consider:** Contrast, legibility, and overall aesthetic.
 
-[Contrast in Font Pairing](#font-pairingcombination)
-
 ### 3. Establish a Type Scale
 
 - **Base Size:** Determine the foundational font size for your system.
@@ -80,7 +78,7 @@ We explain the key 8 design points to consider with font pairing, so you have th
 
 ### Hierarchy and Contrast
 
-Every design! **Websites**, **books**, **posters**, **brochures**, **signs**, etc. has a form of word [hierarchy](#typographic-hierarchy). What do I mean by [hierarchy](#typographic-hierarchy)? [[5]]
+Every design! **Websites**, **books**, **posters**, **brochures**, **signs**, etc. has a form of word [hierarchy](./typography_system/typography_hierarchy_levels/typography_hierarchy_levels.md). What do I mean by [hierarchy](./typography_system/typography_hierarchy_levels/typography_hierarchy_levels.md)? [[5]]
 
 - The most important information should stand out to the viewer first.
   > On a poster, the most important information is the headline of an event. On a website, it’s the title of a blog post. On a business card, it’s the name of the person or the company.
@@ -98,32 +96,8 @@ Imagine you're telling a story with different chapters and sections. In typograp
 - Example: Use a bold serif font for headings and a clean sans-serif font for body text.
 - Ensure contrast in **weight**, **size**, or **style** between headings, subheadings, and body text.
 
-#### Typographic hierarchy
-
-The three levels of typographic hierarchy are headlines, subheadings, and body text. However, as you grow in your ability to create font hierarchy in your designs, you will begin to use more than these three primary levels. [1],[2]
-
-- 6 levels of heading tags? [1]
-
-*cách sử dụng các heading trong accessibilities có theo thứ tự từ lớn đến nhỏ liền mạch không?*
-
-*bắt nguồn từ hierarchy của IA*.
-
-##### Font Hierarchy Scale Proportion
-
-Font size scale:
-
-- Minor Second [[1]]
-- Major Second [[1]]
-- Minor Third [[1]]
-- Major Third [[1]]
-- Perfect Forth: [[1]]
-- Argumented Forth [[1]]
-- Perfect Fifth [[1]]
-- Golden Ratio [[1]]
-
-##### Scale for breakpoint responsive design
-
-<!-- Related to [Web Design - Responsive](/UX_design/level-4/targets/web/web_design.md/#responsive) -->
+[Levels of typographic hierarchy](./typography_system/typography_hierarchy_levels/typography_hierarchy_levels.md)
+[Modular scale](./typography_system/modular_scale/modular_scale.md)
 
 ### Consistency and Cohesion
 
@@ -133,15 +107,17 @@ Maintain consistency in typography throughout your design. Stick to a limited nu
 
 Think of this as having a set of matching Lego blocks to build something. In typography, it means using the same font styles, like choosing one font for titles and another for the body text, and using them consistently throughout your project. This helps your design look neat and tidy, just like when you paint a picture and use the same colors to create harmony. [[6]]
 
-**2. Limit the Number of Fonts**:
+**Stick to 2-3 fonts per design**:
 
 - **Guideline**: Stick to **two or three typefaces** in a design.
   - One for headings, another for body text, and an optional third for accents.
 - Too many fonts can make the design cluttered and inconsistent.
 
-**8. Leverage Font Families**:
+When you use too many fonts in a single design, it can be overwhelming for the viewer. The eye doesn’t know where to focus, and important information can easily get lost in the mix. This can result in a confusing and unprofessional-looking design that fails to effectively convey your message. [[10]]
 
-- Many font families (e.g., Roboto, Montserrat) include multiple weights and styles, allowing for variation without introducing another typeface.
+To avoid these issues, it’s best to stick to a maximum of 2-3 fonts when pairing fonts in graphic design. This helps create a cohesive and consistent design, while also making sure that your message is clear and easy to read. [[10]]
+
+![alt text](Stick-to-2-3-fonts-per-design-to-font-pairing-in-graphic-design.webp)
 
 ### Readability and Legibility
 
@@ -182,9 +158,7 @@ Proportion is about the relationship between different elements - like the size 
 - Pay attention to **x-height**, letter spacing, and stroke thickness.
 - Fonts with similar proportions often pair well together (e.g., Lora and Open Sans).
 
-### Font Pairing/Combination
-
-#### Contrast Styles in Font Pairing
+### Contrast Styles in Font Pairing
 
 ![alt text](best_canva_font_pairings_6_720x.png)
 
@@ -196,32 +170,47 @@ Contrast is pairing fonts that are different but work well together. It's like h
 - **How**: Contrast fonts in style, weight, or case for visual interest.
 - Example: Pair a thin, elegant serif (e.g., Bodoni) with a bold sans-serif (e.g., Futura).
 
-#### Choose Complementary Typefaces
+### Choose Complementary Typefaces
+
+Choosing complementary fonts is crucial to create a harmonious look and feel. Fonts that share similar characteristics, such as shape, proportions, and style, can complement each other. For instance, a serif font can be paired with a sans-serif font to create a beautiful contrast. Similarly, two sans-serif fonts with different weights and styles can also create a visually pleasing effect. [[10]]
+
+It’s essential to consider the proportions of the fonts while pairing them. Fonts with different shapes may not pair well together. Therefore, it’s recommended to opt for fonts with similar proportions for a balanced look. By keeping these factors in mind, you can create an aesthetically pleasing typography design. [[10]]
+
+![alt text](how-to-pair-fonts-using-complementary-fonts.webp)
 
 - **Tip**: Pair fonts with distinct yet complementary characteristics.
 - Example Combinations:
   - A classic serif font (e.g., Garamond) with a clean sans-serif (e.g., Helvetica).
   - A decorative script font (e.g., Pacifico) with a neutral sans-serif (e.g., Roboto).
 
-#### Match the Mood or Tone
+### Match type characteristics faceted taxonomy
 
-- **Why**: Fonts should align with the content’s tone or message.
-  - Playful fonts for casual or fun content.
-  - Sleek, modern fonts for professional or business-focused designs.
+To make sure your fonts are working together harmoniously, start by identifying the overall mood you want to convey with your design. Is it playful and fun, or serious and professional? Once you have a clear idea of the mood you’re going for, you can choose fonts that fit that mood and pair them in a way that creates a cohesive look. [[10]]
 
-#### Type characteristics faceted taxonomy
+When pairing fonts, it’s important to consider the mood of each font and how it works together with the other fonts in your design. Mixing and matching fonts that have different moods can create a disjointed and confusing design. [[10]]
+
+![alt text](how-to-pair-fonts-Consider-the-mood.webp)
 
 Typeface được phân loại dựa trên các thông tin research từ business và user, theo các tiêu chí như sau:
 
-- **By vibes, emotions, effects**: warmth, cozy, calming, softens, strong, stability, masculinity, charming, feminine
-- **By styles**: modern, classic, contemporary, art-deco, clean, elegant, timeless, classy, simple, polished, refined, chic, fashionable, stylish, graceful, delicate, fine, exquisite, rich, grand, sharp, dependable, minimalist, sleek
+- **By moods, tones, vibes, emotions, effects, message**: warmth, cozy, calming, softens, strong, stability, masculinity, charming, feminine, playful, nostalgic, romantic
+  > Playful fonts for casual or fun content.
+  > **Why**: Fonts should align with the content’s tone or message.
+- **By styles**: modern, classic, contemporary, art-deco, clean, elegant, timeless, classy, simple, polished, refined, chic, fashionable, stylish, graceful, delicate, fine, exquisite, rich, grand, sharp, dependable, minimalist, sleek, rustic
+  > Sleek, modern fonts for professional or business-focused designs.
 - **By industries, fields, professions**: fashion, industrial, technology, weather report, web design, financial, hotel, cocktail bar, review, cinema, manufacturing, sport, art galery/exhibition
 - **By topics**: life style, event, invitation
 - **By products**: bakery or patisserie, liquor
 - **By geographic locations**: Mediterranean
 - **By eras**: gothic, Roman
 
-#### Pair Fonts by Classification
+### Pair Fonts by Classification
+
+Different font categories refer to grouping fonts based on their style and characteristics. The most common font categories include serif, sans-serif, script, display, and monospace. Each category has its own unique characteristics and is best suited for specific design purposes. [[10]]
+
+When pairing fonts from different categories, it’s important to consider the overall mood and tone of your design. For example, pairing a bold sans-serif font with a delicate script font can create a playful and energetic look, while pairing a classic serif font with a modern sans-serif font can create a more sophisticated and refined look. [[10]]
+
+![alt text](how-to-pair-fonts-using-Different-Font-Categories.webp) [[10]]
 
 - Consider the Different types of fonts: [[8]] Serif, San-serif, Script, Display
 - It is so important when it comes to branding that you choose the right pair of fonts that express the personality of your brand and also compliment your logo. [[8]]
@@ -241,6 +230,26 @@ Common pairings include:
 - Principle-6: dual-typeface Script for title/heading, and San-Serif for body copy [[2]] A clean base with a decorative flair.
 - Principle-7: triple-typefaces [[2]]
 
+### Use font families
+
+**8. Leverage Font Families**:
+
+- Many font families (e.g., Roboto, Montserrat) include multiple weights and styles, allowing for variation without introducing another typeface.
+
+Using font families can be particularly helpful when you need to pair fonts for different purposes within the same design. For example, you might use a bold font for headlines and a lighter font for body text, but you want them to have a similar style and feel. [[10]]
+
+By choosing fonts from the same family, you can ensure that they have a similar visual style and share design elements like letter shapes and spacing. This can help create a sense of unity and consistency throughout your design. [[10]]
+
+![alt text](how-to-pair-fonts-using-Different-Font-families.webp)
+
+### Keep it simple
+
+When it comes to font pairing in graphic design, [simplicity](https://www.zekagraphic.com/minimalist-graphic-design-rules/) is a fundamental principle to keep in mind. Simple font combinations can often have a big impact, while using too many fonts or styles can overcomplicate things and make your design look cluttered and unprofessional. [[10]]
+
+To keep things simple, start by choosing two or three fonts that complement each other well. Stick to classic and timeless fonts that are easy to read and don’t distract from your message. For example, a classic serif font paired with a clean sans-serif font can create a simple yet effective design. Consider using variations of the same font family as well, as they often have a cohesive look that works well together. [[10]]
+
+![alt text](Keep-it-simple-to-font-pairing-in-graphic-design.webp)
+
 ### Color and Texture in Typography
 
 ![alt text](best_canva_font_pairings_7_720x.png)
@@ -256,6 +265,12 @@ Color and texture in typography are like adding flavors and spices to a dish. Th
 Continuously experiment with various typography options available in Canva. Iterate on font pairings, sizes, and styles to find the best combination that suits your design's objectives and aesthetics. [[6]]
 
 Think of typography as an art. Just like painters try different strokes, you can try various font combinations to see what looks best. Experimenting with fonts and styles in Canva lets you explore and find what suits your design. Iterating means trying again and again, refining your design until it's just right. It’s important because it encourages creativity and helps you discover new ideas. [[6]]
+
+Keep in mind that font pairing is not an exact science, and what works for one project may not work for another. Don’t be afraid to step out of your comfort zone and try something new. Experimenting with different font pairings can lead to unique and memorable designs that set your work apart from others. So, embrace the creative process and experiment with different font pairings until you find the perfect combination for your project. [[10]]
+
+It’s important to keep in mind that font pairing is not an exact science and what works for one project may not work for another. Don’t be afraid to think outside of the box and try something new. [[10]]
+
+![alt text](Experiment-with-different-pairings.webp)
 
 ## Validation of Font pairings
 
@@ -306,3 +321,19 @@ What makes a good font pairing? [[4]]
 - *The best font pairings in Canva & how to design your own* [[6]]
 
 [6]: <https://motionstamp.com/blogs/news/best-canva-font-pairings>
+
+- *Typographic Hierarchy in Graphic Design* [[7]]
+
+[7]: <https://www.zekagraphic.com/typographic-hierarchy-in-graphic-design/>
+
+- *How to Structure an Effective Typographic Hierarchy* [[8]]
+
+[8]: <https://www.toptal.com/designers/typography/typographic-hierarchy>
+
+- *Your Guide to Brand Typography and Hierarchy* [[9]]
+
+[9]: <https://selahcreativeco.com/blog/your-guide-to-typefaces-brand-font-hierarchy>
+
+- *The Art of Pairing Fonts: A Beginner’s Guide* [[10]]
+
+[10]: <https://www.zekagraphic.com/how-to-pair-fonts-in-graphic-design/>

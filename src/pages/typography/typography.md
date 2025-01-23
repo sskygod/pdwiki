@@ -268,6 +268,12 @@ The difference between typeface and font can be a little confusing.
 
 [Type system](./typography_system#typography-system)
 
+## Unit
+
+pixel
+em
+rem
+
 ## Glyph
 
 **Glyph**: In typography, a glyph is "the specific shape, design, or representation of a character". It is a particular graphical representation, in a particular typeface, of an element of written language. [R1]

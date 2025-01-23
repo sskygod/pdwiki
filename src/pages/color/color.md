@@ -46,7 +46,7 @@ The 60-30-10 rule is an interior design rule you can apply to UI design. This si
 - [Adobe Color System](<https://spectrum.adobe.com/page/color-system/>)
 - [Adobe Color Palette](<https://spectrum.adobe.com/page/color-palette/>)
 
-## Color palette advancing
+## Color palette advancing/testing/smells
 
 Experience in color Combinations and Assignments. What actions need to be done?
 
