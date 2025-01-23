@@ -78,7 +78,7 @@ We explain the key 8 design points to consider with font pairing, so you have th
 
 ### Hierarchy and Contrast
 
-Every design! **Websites**, **books**, **posters**, **brochures**, **signs**, etc. has a form of word [hierarchy](./typography_system/typography_hierarchy_levels/typography_hierarchy_levels.md). What do I mean by [hierarchy](./typography_system/typography_hierarchy_levels/typography_hierarchy_levels.md)? [[5]]
+Every design! **Websites**, **books**, **posters**, **brochures**, **signs**, etc. has a form of word [hierarchy](./typography_system/typography_hierarchy_levels/typography_hierarchy_levels). What do I mean by [hierarchy](./typography_system/typography_hierarchy_levels/typography_hierarchy_levels)? [[5]]
 
 - The most important information should stand out to the viewer first.
   > On a poster, the most important information is the headline of an event. On a website, it’s the title of a blog post. On a business card, it’s the name of the person or the company.
