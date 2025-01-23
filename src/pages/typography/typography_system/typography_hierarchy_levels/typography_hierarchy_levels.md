@@ -278,7 +278,7 @@ The first element to create text hierarchy that cames to our minds is type size,
 
 ![alt text](How-To-Create-Typographic-Hierarchy-Using-Type-Size.webp)
 
-Refer to [Modular Scale](./modular_scale.md)
+Refer to [Modular Scale](../modular_scale/modular_scale)
 
 ### Case
 
