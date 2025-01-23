@@ -18,14 +18,14 @@ The typographic scale is used to create a balanced and friendly font sizing, whi
 
 Selecting a scale depends on specific needs, and sometimes this can be tricky. Always choose a scale based on the type ratio that we need for our designs. However, we can always develop our system once we fully understand how type scale works. [[1]]
 
-**Low Contrast Scales**:
+### Low Contrast Scales
 
 Designs that should be versatile, such as dashboards and mobile apps, often use low-contrast scales as they allow the content to be flexible. Low contrast scales include Minor Second and Major Second.
 
 - Minor Second [[1]]: 1.067
 - Major Second [[1]]: 1.125
 
-**Medium Contrast Scales**:
+### Medium Contrast Scales
 
 Medium contrast can use The Major Third, Major Second, or Perfect Fourth scales as the contrast between types is not drastic and can fit more content.
 
@@ -33,7 +33,7 @@ Medium contrast can use The Major Third, Major Second, or Perfect Fourth scales 
 - Major Third [[1]]: 1.250
 - Perfect Forth: [[1]]: 1.333
 
-**High Contrast Scales**:
+### High Contrast Scales
 
 Designs that demand a fair amount of contrast between types can use high contrast and hugely benefit from Augmented Fourth, Perfect Fifth, and Golden Ratio. These can be a perfect fit for large screen devices.
 
