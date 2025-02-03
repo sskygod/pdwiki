@@ -27,6 +27,8 @@ In the simplest form, a Font Pairing is when you pair fonts that look great toge
 - **Base Size:** Determine the foundational font size for your system.
 - **Modular Scale:** Create a consistent ratio (e.g., golden ratio, Fibonacci sequence) to define font sizes for different elements (headings, subheadings, body text, etc.).
 
+[Modular scale](./typography_system/modular_scale/modular_scale)
+
 [Hierarchy and Contrast](#hierarchy-and-contrast)
 
 ### 4. Set Line Height and Leading
@@ -271,6 +273,60 @@ Keep in mind that font pairing is not an exact science, and what works for one p
 It’s important to keep in mind that font pairing is not an exact science and what works for one project may not work for another. Don’t be afraid to think outside of the box and try something new. [[10]]
 
 ![alt text](Experiment-with-different-pairings.webp)
+
+### Hierarchy and Scale match
+
+No, Heading 1 (H1) and Heading 2 (H2) do not necessarily need to be continuous steps in a typographic scale. However, their relationship should still adhere to a clear visual hierarchy and design logic. Here's a detailed breakdown:
+
+**When H1 and H2 Can Be Continuous Steps:**
+
+1. **Uniform Visual Flow:**
+   - If your design relies on consistent increments for all typographic elements, keeping H1 and H2 as consecutive steps ensures uniformity.
+
+2. **Minimalist or Linear Designs:**
+   - In minimalist designs, where simplicity is key, a linear typographic scale helps maintain balance and visual harmony.
+
+3. **Accessible or Utility-focused Websites:**
+   - For highly functional sites (e.g., government or educational sites), a straightforward, logical typographic scale aids usability and clarity.
+
+---
+
+**When H1 and H2 Can Skip Steps:**
+
+1. **Distinct Visual Emphasis for H1:**
+   - H1 often serves as the most critical element on a page and needs to stand out more than H2. You might increase the size difference or use other techniques like color, weight, or case to make H1 more prominent.
+
+2. **Flexible or Non-linear Scales:**
+   - Many designs prioritize visual hierarchy over rigid scale adherence. In these cases, you can skip a step (or even two) between H1 and H2 to emphasize H1 more dramatically.
+
+3. **Designing for Specific Use Cases:**
+   - For editorial websites, blogs, or storytelling platforms, a larger gap between H1 and H2 helps differentiate main titles (H1) from subheadings (H2).
+
+---
+
+**Best Practices for Typographic Scale in Headings:**
+
+1. **Maintain Visual Hierarchy:**
+   - Even if H1 and H2 aren’t consecutive, ensure H1 is clearly larger or more prominent than H2, which should be larger than H3, and so on.
+
+2. **Consider Context and Frequency:**
+   - H1 is usually used once per page (e.g., the page title), while H2 may appear multiple times. Design H2 to balance prominence and readability in repeated use.
+
+3. **Use Proportions Thoughtfully:**
+   - Common typographic ratios (e.g., the **modular scale**) like 1.125, 1.25, 1.414, or 1.618 can guide your choices. You might apply a larger ratio between H1 and H2 for stronger contrast.
+
+4. **Complement with Other Styles:**
+   - Use weight, color, or letter-spacing alongside size to reinforce hierarchy. For example, a slightly smaller but bolder H2 can feel equally prominent.
+
+---
+
+### **Key Questions to Ask Yourself:**
+
+- **What is the importance of H1 and H2 on my website?**
+- **Do I want a dramatic or subtle transition between these levels?**
+- **Does the visual hierarchy align with user expectations and content structure?**
+
+Would you like assistance in defining a typographic scale for your project?
 
 ## Validation of Font pairings
 

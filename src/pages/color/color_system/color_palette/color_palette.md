@@ -1,4 +1,4 @@
-# (Branding) Color Palletes
+# Color Palettes
 
 **What is a color palette?**
 
@@ -65,28 +65,7 @@ Secondary colors blend in and complement your primary brand color without taking
 
 ![alt text](examples/twitter_google_secondary_color.png)
 
-### Neutral color
-
-- neutral colors are shades of white, gray, black, and sometimes beige or other muted tones. [5],[7]
-- They provide a backdrop for other colors, creating balance, contrast, and a clean aesthetic. [7]
-- It's one of your main colors simply because almost everything in UI design — text, lines, form fields, backgrounds, dividers, etc... will use neutral colors. [6]
-- **Avoid absolute white or black**: When you deal with backgrounds or large areas, avoid using total white or black. [4],[6],[8],[9]
-    > True black tends to look pretty unnatural, so start with a really dark grey and work your way up to white in steady increments. [4],[9]
-    > Pure black is overpowering, strains the eyes and reduces the reading stamina of users. [9]
-    > avoid using pure black on white as the contrast can be tiring to the eyes [6]
-
-- A light neutral works great as a background color, and balances out the bolder colors when white is too boring or needs a break. [13]
-- Darker neutrals give your palette more versatility and usually work well as a font color if they’re significantly darker [13]
-
-![alt text](check_using_pure_black.png)
-
-**Examples:**
-
-![alt text](apple_google_neutral_color.png)
-
-Refer to [Neutral Color](../../color_theory/color_psychology/color_psychology#color-temperature)
-
-### Accent color
+#### Accent color
 
 - Your accent color is the pop that brings your brand to life! Use it to highlight calls to action (e.g., “Contact Us” buttons), important information, or creative brand elements. Accent colors are the most pronounced of your brand colors. [13]
 - These act as "secondary colors" or "supporting colors" to your primary color palette. [5]
@@ -112,6 +91,76 @@ Feedback colors emphasize different semantic states. They're used to provide vis
 - **Error colors**: Error colors are used across error states and in "destructive" actions. They communicate a destructive/negative action, such as removing a user from your team.
 - **Warning colors**: Warning colors can communicate that an action is potentially destructive or "on-hold". These colors are commonly used in confirmations to grab the users' attention.
 - **Success colors**: Success colors communicate a positive action, a positive trend, or a successful confirmation. If you're using green as your primary color, it can be helpful to introduce a different hue for your success green.
+
+### Neutral color
+
+- neutral colors are shades of white, gray, black, and sometimes beige or other muted tones. [5],[7]
+- They provide a backdrop for other colors, creating balance, contrast, and a clean aesthetic. [7]
+- It's one of your main colors simply because almost everything in UI design — text, lines, form fields, backgrounds, dividers, etc... will use neutral colors. [6]
+- **Avoid absolute white or black**: When you deal with backgrounds or large areas, avoid using total white or black. [4],[6],[8],[9]
+    > True black tends to look pretty unnatural, so start with a really dark grey and work your way up to white in steady increments. [4],[9]
+    > Pure black is overpowering, strains the eyes and reduces the reading stamina of users. [9]
+    > avoid using pure black on white as the contrast can be tiring to the eyes [6]
+
+- A light neutral works great as a background color, and balances out the bolder colors when white is too boring or needs a break. [13]
+- Darker neutrals give your palette more versatility and usually work well as a font color if they’re significantly darker [13]
+
+![alt text](check_using_pure_black.png)
+
+**Examples:**
+
+![alt text](apple_google_neutral_color.png)
+
+Refer to [Neutral Color](../../color_theory/color_psychology/color_psychology#color-temperature)
+
+### _Assigning Roles: A Flexible Approach
+
+Here are a few common ways to assign primary, accent, and neutral roles to your four colors:
+
+**Option 1: Two Primaries, One Accent, One Neutral**:
+
+- **Primaries:** Choose two colors that complement each other well and have moderate to high intensity. These will form the foundation of your design.
+- **Accent:** Select a color that contrasts strongly with the primaries, drawing attention to specific elements. It should be used sparingly.
+- **Neutral:** Choose a color that's light, airy, or earthy. This will provide a backdrop and balance the bolder colors.
+
+**Option 2: One Primary, Two Accents, One Neutral**:
+
+- **Primary:** Select a dominant color that sets the overall tone.
+- **Accents:** Choose two colors that complement or contrast with the primary, adding visual interest and emphasis.
+- **Neutral:** As in Option 1, this color provides a foundation and balances the bolder hues.
+
+**Option 3: Tetradic Harmony**:
+
+If your four colors form a tetradic scheme (two complementary pairs), you can:
+
+- **Primaries:** Choose one color from each complementary pair.
+- **Accents:** Use the remaining two colors sparingly.
+- **Neutral:** Introduce a neutral color to balance the scheme.
+
+**Tips for Effective Color Combinations**:
+
+- **Consider the 60-30-10 Rule:** Use your primary color for 60% of the design, your secondary color for 30%, and your accent color for 10%.
+- **Test and Iterate:** Experiment with different color combinations and placements to see what works best for your specific design.
+- **Consider the Mood and Message:** Choose colors that evoke the desired emotions and align with the message you want to convey.
+
+**Example**:
+
+Let's say your four colors are:
+
+1. **Bright Teal**
+2. **Warm Orange**
+3. **Soft Gray**
+4. **Deep Navy**
+
+You could use:
+
+- **Primary:** Bright Teal and Warm Orange (complementary)
+- **Accent:** Deep Navy
+- **Neutral:** Soft Gray
+
+This combination offers a vibrant and energetic feel, with the navy adding a touch of sophistication and the gray providing a calming base.
+
+Remember, the best approach depends on your specific design goals and the overall aesthetic you're aiming for. Feel free to experiment and have fun with it!
 
 ## Scale/Shades
 
@@ -206,6 +255,17 @@ Remember, more saturation tends to make colors look "brighter", while less makes
 
 ![alt text](comprehend_color_palette.png)
 
+## Actions
+
+**Understanding Your Color Palette**
+
+Before we dive into assigning roles, let's analyze the four colors you've chosen. Consider these questions:
+
+* **Color Wheel Relationship:** Are the colors complementary, analogous, triadic, or tetradic? Understanding their relationship on the color wheel will guide your choices.
+* **Color Temperature:** Are the colors warm (red, orange, yellow) or cool (blue, green, purple)? This will help create balance and visual interest.
+* **Color Intensity:** Are the colors bright and vibrant, or muted and subdued? This will affect the overall mood and energy of your design.
+
+
 ## Color Palette Generators
 
 [coolors](<https://coolors.co/>)
@@ -237,6 +297,7 @@ Remember, more saturation tends to make colors look "brighter", while less makes
 
 - [Color palette examples](https://www.figma.com/resource-library/types-of-color-palettes#color-palette-examples)
 - [Choosing Colors for Your Brand](https://mushaboom.studio/articles/choosing-colors-for-your-brand)
+- [Death wish coffee](./examples/death_wish_coffee.md)
 
 ## __References
 

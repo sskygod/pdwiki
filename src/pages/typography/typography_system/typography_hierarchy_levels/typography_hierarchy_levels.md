@@ -97,17 +97,17 @@ Then, you may find subheadings (```<H3>```) or accent headings, which further br
 
 ### Supporting Level
 
-**Quaternary Heading (H4)**:
+#### Quaternary Heading (H4)
 
 - A minor heading for deeper subcategories.
 - Purpose: Organize detailed content without overwhelming the reader.
 
-**Quinary Heading (H5)**:
+#### Quinary Heading (H5)
 
 - A very small heading used sparingly for fine-grained structure.
 - Purpose: Categorize highly specific content.
 
-**Senary Heading (H6)**:
+#### Senary Heading (H6)
 
 - The smallest heading style.
 - Purpose: Offer additional hierarchy for technical or complex documents.
@@ -277,6 +277,10 @@ From there, it’s key to figure out how to distinguish between the different pa
 The first element to create text hierarchy that cames to our minds is type size, and it consists of making the most important parts of our text larger (Heading and subheading) in comparison to the less important (body text) making the bigger elements as a tool to grab the attention of the reader. If you want to use type size to create visual hierarchy in your design layout you can use the traditional typographic scales present in most word processing programs and it the scale is 6, 7, 8, 9, 10, 11, 12, 14, 16, 18, 21, 24, 30, 36, 48, 60, and 72. [[13]],[[14]]
 
 ![alt text](How-To-Create-Typographic-Hierarchy-Using-Type-Size.webp)
+
+- Keep headings prominent with larger sizes and bold weights.
+- Use smaller sizes and lighter weights for subtitles or secondary information.
+- Use font sizes consistently across the website for a polished look (e.g., H1: 36px, H2: 28px, Body: 16px).
 
 Refer to [Modular Scale](../modular_scale/modular_scale)
 

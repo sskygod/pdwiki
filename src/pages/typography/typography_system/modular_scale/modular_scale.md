@@ -55,6 +55,12 @@ Type scale that is responsive and feels more comfortable to read across multiple
 
 <!-- Related to [Web Design - Responsive](/UX_design/level-4/targets/web/web_design.md/#responsive) -->
 
+## Average scale ratio
+
+Có thể sử dụng linh hoạt với average scale ratio (**unconfirm ????**)
+
+> ví dụ như Starbuck sử dụng average ratio "minor-third average": 1.3, 1.077, 1.14, 1.19, 1.052, 1.1, 1.27, 1.28, 1.39. Với average ratio là 1.2
+
 ## Type Scale Calculator
 
 This is a visual type calculator that helps you pick the right type scale ratio for your design.

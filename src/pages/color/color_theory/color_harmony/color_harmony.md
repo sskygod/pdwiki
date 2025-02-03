@@ -221,7 +221,7 @@ A variant of tetradic, this scheme finds four colors evenly spaced on the color 
 *Tips: avoid combining warm and cool colors, don’t have too many colors*.
 *The color properties and color schemes can be combined in picking the best possible color scheme for your designs*.
 
-## Custom
+## Custom/Aethestic/Non-Color Wheel
 
 Custom color schemes are the hardest to create. Instead of following the predefined color schemes discussed above, a custom scheme isn’t based on any formal rules. Keep in mind things like chroma, value, and saturation when creating these kinds of color schemes. [2]
 
@@ -238,6 +238,110 @@ Custom color schemes are the hardest to create. Instead of following the predefi
 - Using one color with a high chroma among other colors with lower chromas is another effective method (the higher chroma color would/can act as an accent). [2]
 
 ![alt text](./examples/custom_3.png)
+
+### accented neutral
+
+(Neutral Primary color + Accent color)
+
+Harmony của neutral color với hue color như thế nào?
+
+Là một loại harmony khác các harmony nằm trên color wheel, được gọi là aesthetic color harmony
+
+—————————-
+
+What is color scheme with black or any neutral colors and main color, such as red or orange?
+
+
+A color scheme that includes black or other neutral colors (like gray, white, or beige) alongside a main color (such as red or orange) is often referred to as a neutral + accent scheme. Some common types include:
+
+1. Monochromatic Neutral + Accent “ Uses black, white, and grays with a single bold accent (e.g., red or orange).
+2. Minimalist Modern “ Primarily black, white, and shades of gray, with a pop of color for emphasis.
+3. Dark Mode + Vibrant Accent “ Often seen in UI/UX design, where a dark background is contrasted with a bright color like red, orange, or blue.
+4. Industrial or Urban “ Uses dark grays, blacks, and neutral textures (like concrete or wood) with a bold accent color.
+5. High-Contrast Bold “ Black and white as a base with a striking red or orange to create energy and drama.
+
+
+There is a single universal name for these schemes, but some commonly used terms describe them:
+
+1. Neutral + Accent“ A general term for color palettes with neutrals and a strong accent color.
+2. Dark & Vibrant“ Often used in UI/UX and branding for a sleek, modern look.
+3. High Contrast“ When black and white are paired with a bold accent like red or orange.
+4. Industrial Chic“ Often seen in interior design, using dark neutrals with a strong color pop.
+5. Neo-Noir“ A dramatic black-heavy scheme with a striking color (often red).
+6. Fire & Shadow“ When warm colors like red or orange contrast with black or gray.
+7. Sporty Dynamic“ Common in athletic branding, using black or gray with red, orange, or yellow for energy.
+
+If you have a specific industry or mood in mind, I can help refine the terminology!
+
+Uhm, which means they have custom names, instead of traditional names, such as complementary or tetradic, right?
+
+Yes, exactly! Unlike traditional color harmonies like complementary, analogous, triadic, or tetradic, which follow strict color wheel relationships, neutral + accent schemes are more stylistic and can be named based on their aesthetic, mood, or industry use.
+
+These schemes do have a fixed rule like red and green are complementary. Instead, they rely on the contrast between a neutral base (black, gray, white, or beige) and a bold color (red, orange, etc.), which makes them more flexible for branding, UI/UX, and modern design.
+
+Would you like help choosing a specific name for your project™s color scheme?
+
+Yup, my main color is darked coffee brown, accent color is red, and neutral color is beige
+
+That™s a rich and warm color scheme! Here are a few name ideas based on its aesthetic:
+
+1. Roast & Ember“ Evokes the warmth of coffee and the glow of red embers.
+2. Mocha Flame“ A mix of deep coffee tones with fiery red.
+3. Velvet Espresso“ A luxurious take, with deep brown and bold red.
+4. CafÃ© Noir“ Sophisticated and moody, perfect for a high-end coffee brand.
+5. Spiced Latte“ Reflecting the warmth of coffee with a spicy red pop.
+
+Would you like something more specific to your project™s vibe?
+
+
+
+Do you have a specific purpose for this color scheme, like a website or branding project?
+
+<https://www.provenwinners.com/color-scheme-type/accented-neutral>
+<https://www.linkedin.com/advice/0/how-can-you-use-accent-colors-add-interest-neutral-f1yif>
+
+
+
+
+
+
+
+
+
+An accented neutral color scheme is a design strategy that uses neutral colors with a small amount of additional colors. 
+What are neutral colors? 
+Neutral colors are muted colors that lack brightness.
+They can be light, medium, or dark.
+Examples of neutral colors include white, beige, brown, gray, and black.
+**What are accent colors?
+Accent colors are brighter colors that are added to neutral colors. 
+Examples of accent colors include blue, red, and pink. 
+Where can accented neutral color schemes be used?
+Interior design: Accented neutral color schemes can be used in interior design to create a creative and versatile space. 
+UI design: Accented neutral colors can be used in UI design for text color and whitespace. 
+Cakes: Accented neutral colors can be used to decorate cakes. 
+**How can you create an accented neutral color scheme?
+You can add a pop of color to a neutral color scheme. 
+You can add color to existing furniture by painting or reupholstering it. 
+You can add color to your space with artwork, throw pillows, or patterned wallpaper. 
+
+<https://www.provenwinners.com/color-scheme-type/accented-neutral#:~:text=A%20color%20scheme%20that%20includes,gray%20and%20black%20with%20red.>
+
+<https://homework.study.com/explanation/what-is-accented-neutral-color-scheme.html#:~:text=Answer%20and%20Explanation:,an%20accented%20neutral%20color%20scheme.>
+
+<https://zandcodesigngroup.com/creating-colorful-interior-design-styles-with-an-accented-neutral-color-scheme/>
+
+<https://chinburg.com/accent-neutral-color-scheme/#:~:text=Furnish%20with%20color.,range%20of%20colors%20and%20patterns.>
+
+<https://ux4sight.com/blog/ux-training-how-to-optimize-the-use-of-accent-colors#:~:text=Accented%20neutral%20colors%20are%20often,to%20navigate%20a%20product%20intuitively.>
+
+<https://zandcodesigngroup.com/creating-colorful-interior-design-styles-with-an-accented-neutral-color-scheme/>
+
+
+
+
+
+
 
 ## __References
 
