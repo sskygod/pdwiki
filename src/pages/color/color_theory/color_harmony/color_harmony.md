@@ -221,7 +221,7 @@ A variant of tetradic, this scheme finds four colors evenly spaced on the color 
 *Tips: avoid combining warm and cool colors, don’t have too many colors*.
 *The color properties and color schemes can be combined in picking the best possible color scheme for your designs*.
 
-## Custom/Aethestic/Non-Color Wheel
+## Accented Neutral
 
 Custom color schemes are the hardest to create. Instead of following the predefined color schemes discussed above, a custom scheme isn’t based on any formal rules. Keep in mind things like chroma, value, and saturation when creating these kinds of color schemes. [2]
 
@@ -238,8 +238,6 @@ Custom color schemes are the hardest to create. Instead of following the predefi
 - Using one color with a high chroma among other colors with lower chromas is another effective method (the higher chroma color would/can act as an accent). [2]
 
 ![alt text](./examples/custom_3.png)
-
-### accented neutral
 
 (Neutral Primary color + Accent color)
 
@@ -291,57 +289,26 @@ That™s a rich and warm color scheme! Here are a few name ideas based on its ae
 4. CafÃ© Noir“ Sophisticated and moody, perfect for a high-end coffee brand.
 5. Spiced Latte“ Reflecting the warmth of coffee with a spicy red pop.
 
-Would you like something more specific to your project™s vibe?
-
-
-
-Do you have a specific purpose for this color scheme, like a website or branding project?
-
-<https://www.provenwinners.com/color-scheme-type/accented-neutral>
-<https://www.linkedin.com/advice/0/how-can-you-use-accent-colors-add-interest-neutral-f1yif>
-
-
-
-
-
-
-
-
-
-An accented neutral color scheme is a design strategy that uses neutral colors with a small amount of additional colors. 
-What are neutral colors? 
+An accented neutral color scheme is a design strategy that uses neutral colors with a small amount of additional colors.
+What are neutral colors?
 Neutral colors are muted colors that lack brightness.
 They can be light, medium, or dark.
 Examples of neutral colors include white, beige, brown, gray, and black.
-**What are accent colors?
-Accent colors are brighter colors that are added to neutral colors. 
-Examples of accent colors include blue, red, and pink. 
-Where can accented neutral color schemes be used?
-Interior design: Accented neutral color schemes can be used in interior design to create a creative and versatile space. 
-UI design: Accented neutral colors can be used in UI design for text color and whitespace. 
-Cakes: Accented neutral colors can be used to decorate cakes. 
-**How can you create an accented neutral color scheme?
-You can add a pop of color to a neutral color scheme. 
-You can add color to existing furniture by painting or reupholstering it. 
-You can add color to your space with artwork, throw pillows, or patterned wallpaper. 
 
-<https://www.provenwinners.com/color-scheme-type/accented-neutral#:~:text=A%20color%20scheme%20that%20includes,gray%20and%20black%20with%20red.>
+**What are accent colors?**
 
-<https://homework.study.com/explanation/what-is-accented-neutral-color-scheme.html#:~:text=Answer%20and%20Explanation:,an%20accented%20neutral%20color%20scheme.>
+- Accent colors are brighter colors that are added to neutral colors.
+  > Examples of accent colors include blue, red, and pink.
+- Where can accented neutral color schemes be used?
+  - Interior design: Accented neutral color schemes can be used in interior design to create a creative and versatile space.
+  - UI design: Accented neutral colors can be used in UI design for text color and whitespace.
+  - Cakes: Accented neutral colors can be used to decorate cakes.
 
-<https://zandcodesigngroup.com/creating-colorful-interior-design-styles-with-an-accented-neutral-color-scheme/>
+**How can you create an accented neutral color scheme?**:
 
-<https://chinburg.com/accent-neutral-color-scheme/#:~:text=Furnish%20with%20color.,range%20of%20colors%20and%20patterns.>
-
-<https://ux4sight.com/blog/ux-training-how-to-optimize-the-use-of-accent-colors#:~:text=Accented%20neutral%20colors%20are%20often,to%20navigate%20a%20product%20intuitively.>
-
-<https://zandcodesigngroup.com/creating-colorful-interior-design-styles-with-an-accented-neutral-color-scheme/>
-
-
-
-
-
-
+- You can add a pop of color to a neutral color scheme.
+- You can add color to existing furniture by painting or reupholstering it.
+- You can add color to your space with artwork, throw pillows, or patterned wallpaper.
 
 ## __References
 
@@ -350,3 +317,11 @@ You can add color to your space with artwork, throw pillows, or patterned wallpa
 [3]: <https://www.interaction-design.org/literature/topics/color-theory>
 [4]: <https://en.wikipedia.org/wiki/Color_scheme>
 [5]: <https://www.linearity.io/blog/color-palette/>
+[6]: <https://www.provenwinners.com/color-scheme-type/accented-neutral>
+[7]: <https://www.linkedin.com/advice/0/how-can-you-use-accent-colors-add-interest-neutral-f1yif>
+[8]: <https://www.provenwinners.com/color-scheme-type/accented-neutral#:~:text=A%20color%20scheme%20that%20includes,gray%20and%20black%20with%20red.>
+[9]: <https://homework.study.com/explanation/what-is-accented-neutral-color-scheme.html#:~:text=Answer%20and%20Explanation:,an%20accented%20neutral%20color%20scheme.>
+[10]: <https://zandcodesigngroup.com/creating-colorful-interior-design-styles-with-an-accented-neutral-color-scheme/>
+[10]: <https://chinburg.com/accent-neutral-color-scheme/#:~:text=Furnish%20with%20color.,range%20of%20colors%20and%20patterns.>
+[10]: <https://ux4sight.com/blog/ux-training-how-to-optimize-the-use-of-accent-colors#:~:text=Accented%20neutral%20colors%20are%20often,to%20navigate%20a%20product%20intuitively.>
+[11]: <https://zandcodesigngroup.com/creating-colorful-interior-design-styles-with-an-accented-neutral-color-scheme/>
