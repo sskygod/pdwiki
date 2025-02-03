@@ -297,7 +297,7 @@ Before we dive into assigning roles, let's analyze the four colors you've chosen
 
 - [Color palette examples](https://www.figma.com/resource-library/types-of-color-palettes#color-palette-examples)
 - [Choosing Colors for Your Brand](https://mushaboom.studio/articles/choosing-colors-for-your-brand)
-- [Death wish coffee](./examples/death_wish_coffee.md)
+- [Death wish coffee](./examples/death_wish_coffee)
 
 ## __References
 
